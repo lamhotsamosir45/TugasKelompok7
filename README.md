@@ -2,5 +2,5 @@
 <h2>Angular</h2>
 <p>-Ketua   : Lamhot Pardamean Samosir</p>
 <p>-Anggota : Amren Rahul Harianja</p>
-<p>         : Ruberto sesar Tampubolon</p>
+<p>         : Ruberto sesar</p>
 <p>         : Yehezkiel Nainggolan</p>
